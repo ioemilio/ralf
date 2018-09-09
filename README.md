@@ -45,4 +45,4 @@ Get an answer from Ralf, either *yes* or *no*, by typing `ralf tell`.
 # Credits
 Other existing workflows inspired me for the development of *Ralf*.
 
-All icons used in the app are taken from [flaticon.com](https://www.flaticon.com).
+Most of the icons used in the worflow are taken from [flaticon.com](https://www.flaticon.com).
