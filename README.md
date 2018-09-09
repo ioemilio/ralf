@@ -1,9 +1,9 @@
-# Ralf
+# Ralf! Randomness utilities for Alfred
 *Ralf! Randomness utilities for Alfred* is a workflow for [Alfred 3](https://www.alfredapp.com) macOS app. 
 
 You'll need a license for the powerpack to install and use it.
 
----------
+
 
 # Usage
 Invoke Ralf by typing `ralf` inside Alfred.
@@ -40,7 +40,7 @@ Roll an arbitrary number $n$ of $k$-sided dice, for any arbitrary $k$, by typing
 **tell**: Tell me! Yes or No?
 Get an answer from Ralf, either *yes* or *no*, by typing `ralf tell`.
 
----------
+
 
 # Credits
 Other existing workflows inspired me for the development of *Ralf*.
