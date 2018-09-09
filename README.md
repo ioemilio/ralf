@@ -17,25 +17,25 @@ Get color name, hex, rgb, hsl, hsv, cmyk representation of a randomly generated 
 
 **draw**: Draw a Card! 
 Draw a card from a classical 52-cards deck `ralf draw`. 
-You can draw an arbitrary number $n \in \{1,...,52\}$ of cards by typing `ralf draw n`.
+You can draw an arbitrary number *n* ∈ {1,...,52} of cards by typing `ralf draw n`.
 
 **flip**: Flip a Coin! Heads or Tails? 
 Flip a coin by typing `ralf flip`. 
-You can flip an arbitrary number $n \in \{1,...,500\}$ of coins by typing `ralf flip n`.
+You can flip an arbitrary number *n* of coins by typing `ralf flip n`.
 
 **pick**: Just Pick One! 
-Pick one option from a comma-separated list of options by typing `ralf pick a,b,c`, where $a$, $b$, $c$ are the possible options.
+Pick one option from a comma-separated list of options by typing `ralf pick a,b,c`, where *a*, *b*, *c* are the possible options.
 
 **rand**: Generate a Random Number! 
-Generate a random real number $x \in [0,1)$ by typing `ralf rand`. 
-Generate a random integer number $n \in \{1,...,k\}$ by typing `ralf rand k`. 
-Generate a random integer number $n \in \{a,...,b\}$ by typing `ralf rand a..b`. 
+Generate a random real number *x* ∈ [0,1) by typing `ralf rand`. 
+Generate a random integer number *n* ∈ {1,...,k} by typing `ralf rand k`. 
+Generate a random integer number *n* ∈ {a,...,b} by typing `ralf rand a..b`. 
 
 **roll**: Roll a Dice! 
 Roll a standard 6-sided dice by typing `ralf roll`. 
-Roll an arbitrary number $n$ of standard 6-sided dice by typing `ralf roll n`. 
-Roll a $k$-sided dice, for any arbitrary $k$, by typing `ralf roll dk` or `ralf roll Dk`. 
-Roll an arbitrary number $n$ of $k$-sided dice, for any arbitrary $k$, by typing `ralf roll ndk` or `ralf roll nDk`. 
+Roll an arbitrary number *n* of standard 6-sided dice by typing `ralf roll n`. 
+Roll a *k*-sided dice, for any arbitrary *k*, by typing `ralf roll dk` or `ralf roll Dk`. 
+Roll an arbitrary number *n* of *k*-sided dice, for any arbitrary *k*, by typing `ralf roll ndk` or `ralf roll nDk`. 
 
 **tell**: Tell me! Yes or No?
 Get an answer from Ralf, either *yes* or *no*, by typing `ralf tell`.
