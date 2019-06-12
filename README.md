@@ -1,5 +1,5 @@
 # Ralf! Randomness utilities for Alfred
-*Ralf! Randomness utilities for Alfred* is a workflow for [Alfred 3](https://www.alfredapp.com) macOS app. 
+*Ralf! Randomness utilities for Alfred* is a workflow for [Alfred 4](https://www.alfredapp.com) macOS app. 
 
 You'll need a license for the powerpack to install and use it.
 
